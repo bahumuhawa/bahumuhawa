@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Umu
+- 👋 Hi, I’m Umu.
 - 👀 I’m interested in coding, web development & UI/UX designs.
 - 🌱 I’m currently learning new frameworks, enhancing frontend/backend skills, and staying updated on UI/UX trends.
 - 💞️ I’m looking to collaborate on exciting open-source projects,innovative web applications & user-centric designs.
