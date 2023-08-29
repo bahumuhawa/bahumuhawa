@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, web development & UI/UX designs.
 - 🌱 I’m currently learning new frameworks, enhancing frontend/backend skills, and staying updated on UI/UX trends.
 - 💞️ I’m looking to collaborate on exciting open-source projects,innovative web applications & user-centric designs.
-- 📫 How to reach me you can reach me via email at bahumuhawa96@gmail.com or connect with me on LinkedIn.
+- 📫 How to reach me you can reach me via email at umuhawa96@gmail.com or connect with me on LinkedIn.
 
 <!---
 bahumuhawa/bahumuhawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
